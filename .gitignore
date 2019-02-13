@@ -1,0 +1,11 @@
+.classpath
+.settings/
+.project
+target/
+*.log
+*.tar.gz
+.idea/
+*.iml
+*/src/main/generated-sources/
+*/log/
+out/
